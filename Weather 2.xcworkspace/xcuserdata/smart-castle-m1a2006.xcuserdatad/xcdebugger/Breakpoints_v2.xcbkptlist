@@ -1,0 +1,119 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "1ADEE487-542F-421F-99FC-0CC83E0FC042"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "29F0351F-E3F3-45A3-8378-222C2B44B339"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather 2/Forecast/ForecastViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "59"
+            endingLineNumber = "59"
+            landmarkName = "collectionView(_:cellForItemAt:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "29F0351F-E3F3-45A3-8378-222C2B44B339 - 9a6a6f0e03072b81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_2.ForecastViewController.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Weather 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2006/Library/Autosave%20Information/Weather%202/Weather%202/Forecast/ForecastViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "2512">
+               </Location>
+               <Location
+                  uuid = "29F0351F-E3F3-45A3-8378-222C2B44B339 - 9a6a6f0e03072b81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_2.ForecastViewController.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Weather 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2006/Library/Autosave%20Information/Weather%202/Weather%202/Forecast/ForecastViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "2508">
+               </Location>
+               <Location
+                  uuid = "29F0351F-E3F3-45A3-8378-222C2B44B339 - 9a6a6f0e03072b81"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_2.ForecastViewController.collectionView(_: __C.UICollectionView, cellForItemAt: Foundation.IndexPath) -&gt; __C.UICollectionViewCell"
+                  moduleName = "Weather 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2006/Library/Autosave%20Information/Weather%202/Weather%202/Forecast/ForecastViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "57"
+                  endingLineNumber = "57"
+                  offsetFromSymbolStart = "2416">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "B7D4DD0B-B420-4DFF-AC7B-E3577571B7CE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Weather 2/Model/CurrentWeather.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "52"
+            endingLineNumber = "52"
+            landmarkName = "downloadCurrentWeather(completed:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "B7D4DD0B-B420-4DFF-AC7B-E3577571B7CE - 60adb68c99158e83"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Weather_2.CurrentWeather.downloadCurrentWeather(completed: () -&gt; ()) -&gt; ()"
+                  moduleName = "Weather 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2006/Library/Autosave%20Information/Weather%202/Weather%202/Model/CurrentWeather.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "52"
+                  endingLineNumber = "52"
+                  offsetFromSymbolStart = "52">
+               </Location>
+               <Location
+                  uuid = "B7D4DD0B-B420-4DFF-AC7B-E3577571B7CE - bfa48da2d5d41d10"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any&gt;) -&gt; () in Weather_2.CurrentWeather.downloadCurrentWeather(completed: () -&gt; ()) -&gt; ()"
+                  moduleName = "Weather 2"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/smart-castle-m1a2006/Library/Autosave%20Information/Weather%202/Weather%202/Model/CurrentWeather.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "55"
+                  endingLineNumber = "55"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
